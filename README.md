@@ -1,1 +1,1 @@
-# KasaFiskalna
+# KasaFiskalna Arkadiusz Cichurski
