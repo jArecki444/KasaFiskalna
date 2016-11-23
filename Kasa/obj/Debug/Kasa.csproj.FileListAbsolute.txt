@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\na pena\drive\Kasa\Kasa\bin\Debug\Kasa.exe.config
+C:\Users\local\Desktop\na pena\drive\Kasa\Kasa\bin\Debug\Kasa.exe
+C:\Users\local\Desktop\na pena\drive\Kasa\Kasa\bin\Debug\Kasa.pdb
+C:\Users\local\Desktop\na pena\drive\Kasa\Kasa\obj\Debug\Kasa.exe
+C:\Users\local\Desktop\na pena\drive\Kasa\Kasa\obj\Debug\Kasa.pdb
+C:\Users\local\Desktop\na pena\drive\Kasa\Kasa\obj\Debug\Kasa.csprojResolveAssemblyReference.cache
